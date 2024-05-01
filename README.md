@@ -1,3 +1,5 @@
+[![Ruby Testing Workflow](https://github.com/bnelford/ruby-grains/actions/workflows/ruby.yml/badge.svg)](https://github.com/bnelford/ruby-grains/actions/workflows/ruby.yml)
+
 # Grains
 
 Calculate the number of grains of wheat on a chessboard given that the number
